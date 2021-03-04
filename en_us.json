@@ -135,6 +135,7 @@
   "madlibPrintVariable": "*Your program needs to print text from at least one variable.* \n It seems like the chatbot is responding, but it didn\'t print what you typed into the prompt. Make sure the right **variable** label is connected to your `print` block.",
   "madlibNoSprites": "*Your program needs to include sprites with behaviors.* \n Your prompt is working. If it is doing what you expected, you can start adding sprites to your project. What is your story or poem about?",
   "madlibNoBehavior": "*Your program needs to include sprites with behaviors.* \n Your prompt is working. If it is doing what you expected, you can give your sprites behaviors to bring your project to life. Try using different behaviors with events to make your project more interactive.",
-  "madlibExplore": "You\'ve completed the requirements for the project, but keep going if you can. Ask the user additional questions or get creative with behaviors, backgrounds, and sounds. Click \"Keep Playing\" to make changes to your code and run it again. Press \"Continue\" to move on and finish your project."
+  "madlibExplore": "You\'ve completed the requirements for the project, but keep going if you can. Ask the user additional questions or get creative with behaviors, backgrounds, and sounds. Click \"Keep Playing\" to make changes to your code and run it again. Press \"Continue\" to move on and finish your project.",
+  "cloudMovedVertically": "The cloud sprite only moved up or down but it didn\'t move side to side. Try a different behavior.",
 }
 
